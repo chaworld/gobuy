@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">GoBuy</string>
+
+    <string name="login_label_nationality">國籍:</string>
+    <string name="login_label_account">會員帳號:</string>
+    <string name="login_label_password">會員密碼:</string>
+    <string name="login_label_birthdate">出生日期:</string>
+    <string name="login_label_verify">驗證:</string>
+
+    <string name="login_hint_phone">手機</string>
+    <string name="login_hint_email">電子信箱</string>
+    <string name="login_hint_password">至少6位元</string>
+    <string name="login_hint_birthdate">1999/01/01</string>
+
+    <string name="login_checkbox_robot">我不是機器人</string>
+    <string name="login_button_clear">清除重填</string>
+    <string name="login_button_confirm">確認送出</string>
+
+    <string-array name="nationalities_array">
+        <item>台灣</item>
+        <item>中國</item>
+        <item>日本</item>
+        <item>韓國</item>
+    </string-array>
+
+    <string name="settings_title">功能設定</string>
+    <string name="settings_label_volume">音量</string>
+    <string name="settings_label_vibration">震動</string>
+    <string name="settings_label_language">語言</string>
+    <string-array name="language_array">
+        <item>繁體中文</item>
+        <item>簡體中文</item>
+        <item>英文</item>
+        <item>日本語</item>
+        <item>韓語</item>
+    </string-array>
+    <string name="settings_label_basic_info">基本資料</string>
+    <string name="settings_label_change_password">密碼變更</string>
+    <string name="settings_label_hide">隱藏</string>
+    <string name="settings_label_app_version">App版本1.12</string>
+    <string name="settings_label_update_available">可更新</string>
+    <string name="settings_label_feedback">意見</string>
+    <string name="settings_volume_format">目前音量: %1$d / 最大值: %2$d</string>
+
+
+    <string name="points_title">紅利點數</string>
+    <string name="points_remaining">剩餘點數: 1602</string>
+    <string name="points_query_label">查詢點數</string>
+    <string name="points_header_store">店家名稱</string>
+    <string name="points_header_date">交易日期</string>
+    <string name="points_header_time">時間</string>
+    <string name="points_header_points">紅利點數</string>
+    <string name="back_button_description">返回</string>
+    <string-array name="points_range_options">
+        <item>1-10</item>
+        <item>11-20</item>
+        <item>21-30</item>
+        <item>31-40</item>
+    </string-array>
+
+    <string name="image_point">紅利點數</string>
+    <string name="image_scan">掃一掃</string>
+    <string name="image_newnew">最新活動</string>
+    <string name="image_setting">設定</string>
+    <string name="image_searchshop">搜尋店家</string>">
+    <string name="image_joindiscount">加入優惠</string>
+    <string name="image_joinspecial">加入特價</string>
+    <string name="image_searchactivity">搜尋活動</string>
+
+
+</resources>
